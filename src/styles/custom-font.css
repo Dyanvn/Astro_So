@@ -1,10 +1,11 @@
+
 @font-face {
     font-family: 'CustomFont';
-    src: url('/assets//font/custom-font.ttf ') format('truetype');
+    src: url('/assets/font/custom-font.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-}
-
-body {
+  }
+  
+  body {
     font-family: 'CustomFont', sans-serif;
-}
+  }
